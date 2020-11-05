@@ -2,7 +2,6 @@
 
 def counting_sort(array):
     size = len(array)
-
     #finding max in array
     temp = max(array)
 
@@ -27,3 +26,4 @@ def counting_sort(array):
     #Updates the given array
     for i in range(size):
         array[i] = Final[i]
+       
