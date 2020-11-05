@@ -1,5 +1,4 @@
 # Merge Sort:
-
 def Merge(array, start, mid, end):
     i = start
     j = start
