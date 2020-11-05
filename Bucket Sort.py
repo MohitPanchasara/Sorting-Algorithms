@@ -58,7 +58,6 @@ def bucket_sort(A):
             k += 1
     return A
 
-
 #driver code
 A = []
 
